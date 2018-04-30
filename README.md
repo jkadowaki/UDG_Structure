@@ -19,22 +19,3 @@ To Be Implemented in the Distant Future (After 2017)
 1. Apply SVMs to determine MSE cut per band.
 2. Update results with LBT 2018A targets.
 3. Check PU0838589 and see why we didn't get redshift.
-
-
-
-LBT 2018 Candidates
--------------------
-Stripe 82
-1.  UDG0244338
-2.  UDG0239472
-3.  UDG0115016
-4.  UDG0113177
-5.  UDG0111031
-6.  UDG0112072
-
-Coma
-1.  UDG1217267
-2.  UDG1218389
-3.  UDG1233477
-4. UDG1237293
-5. LBT2104 (ra:12:45:27.9, dec:18:18:01)
